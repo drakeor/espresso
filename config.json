@@ -1,0 +1,12 @@
+{
+       "Name": "My Espresso Webserver",
+       "IP": "",
+       "Port": 4000,
+       "Webroot": "webroot",
+       "DBHost": "localhost",
+       "DBUsername": "root",
+       "DBPassword": "",
+       "DBTable": "",
+       "DBPrefix": ""
+}
+
