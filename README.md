@@ -1,4 +1,6 @@
-#Espresso Webserver
+=======
+Espresso Webserver
+========
 
 Espresso is a small, lightweight webserver that parses pages written in the Lua Scripting Language. It's functionality is similiar to PHP. It is built by Eric C. and River B. We don't really maintain this anymore, but the source is availiable for
 anyone who wishes to make use of it.
@@ -53,7 +55,4 @@ two newtons fail to compromise the integrity of the shell, a deadblow hammer wil
 Using a spoon, scoop up the contents of the egg and ingest. Throw the shells in the pan and let simmer for five minutes.
 Do not eat the shells. Dispose of the stove and clean up the pan, wondering how bored a college student had to be to
 write this all up in the middle of class.
-
-
-
 
